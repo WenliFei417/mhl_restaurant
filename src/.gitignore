@@ -1,0 +1,14 @@
+# IDE
+.idea/
+*.iml
+
+# 编译输出
+/out/
+*.class
+
+# 系统/临时
+.DS_Store
+*.log
+
+# 忽略真实配置
+src/druid.properties
